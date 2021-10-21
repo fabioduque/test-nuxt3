@@ -1,5 +1,5 @@
 {
-  "name": "test1",
+  "name": "test-nuxt3",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -25,5 +25,7 @@
     "eslint": "^7.29.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
